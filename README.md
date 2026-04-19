@@ -4,7 +4,7 @@
 >
 > 專為專業攝影流程設計的跨裝置 WebRTC 多機位監控與檔案管理系統。
 
-🔗 [**Live Demo: 點此進入控制中心 (建議使用 PC 開啟)**]https://cyx-studio-multi-cam-monitor.vercel.app
+🔗 [**Live Demo: 點此進入控制中心 (建議使用 PC 開啟)**] https://cyx-studio-multi-cam-monitor.vercel.app
 
 ## ✨ 核心特色 (Features)
 * **專業導播級控制台 (Professional Dashboard)**
